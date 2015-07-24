@@ -5,7 +5,7 @@
 This repository has been created as per the requirements of the Coursera-Johns Hopkins 
 University course: Getting and Cleaning Data
 
-##Objective:
+##Objective
 
 Collect, work with and clean a dataset. The goal is to collect dataset that can be used 
 later on for further Analysis.
